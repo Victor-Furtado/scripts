@@ -2,11 +2,9 @@
 
 Utilitários pequenos em Node.js para tarefas rápidas e pontuais.
 
-## Scripts atuais
+## `merge-excels.js`
 
-### `merge-excels.js`
-
-Mescla vários arquivos Excel em uma única pasta de trabalho.
+### Mescla vários arquivos Excel em uma única pasta de trabalho.
 
 O que ele faz:
 - Lê a primeira aba de cada arquivo por padrão
@@ -15,6 +13,8 @@ O que ele faz:
 - Pode remover duplicados por uma coluna escolhida
 - Pode ordenar por uma coluna escolhida
 - Aceita nome da coluna ou índice da coluna começando em 1 para dedupe e ordenação
+
+### Como usar
 
 Instalar dependências:
 
